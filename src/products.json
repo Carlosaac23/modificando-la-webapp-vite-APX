@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Papitas",
+    "price": 1600
+  },
+  {
+    "id": 2,
+    "title": "Gaseosa",
+    "price": 5000
+  },
+  {
+    "id": 3,
+    "title": "Chocolate",
+    "price": 2800
+  },
+  {
+    "id": 4,
+    "title": "Galletitas",
+    "price": 300
+  },
+  {
+    "id": 5,
+    "title": "Snacks",
+    "price": 2500
+  }
+]
